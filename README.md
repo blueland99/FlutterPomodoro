@@ -4,7 +4,7 @@ Nomadcoders Flutter Pomodoro App Project
 
 * 반응형 Widget
 
-Flexible : 박스를 일정한 비율로 나누고 싶을 때 사용하는 태그
+Flexible : 박스를 일정한 비율로 나누고 싶을 때 사용하는 태그<br>
 Expanded : 하나의 박스가 화면을 차지하도록 하기위해 사용하는 태그
 
 * Timer
